@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Carlos Marrugo / @carlosdev ✨🔥
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Kenichi Sanchez / @keni_zack_  ✨🔥
 </h1>
 
 <p align="center">
